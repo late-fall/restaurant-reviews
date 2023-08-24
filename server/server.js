@@ -54,10 +54,8 @@ app.get("/api/v1/restaurants/:id", async (req, res) => {
 
 //create a restaurant, POST route
 app.post("/api/v1/restaurants", async (req, res)=>{
-    console.log(req.body)
     try {
         const results = await db.query("INSERT INTO rst (name, location, price_range) values ($1, $2, $3) returning *", [req.body.name, req.body.location, req.body.price_range])
-        console.log(results)
         res.status(201).json({
             status: "success",
             data: {
@@ -83,9 +81,6 @@ app.put("/api/v1/restaurants/:id", async (req, res)=>{
     } catch (err) {
         console.log(err)
     }
-
-    console.log(req.params)
-    console.log(req.body)
 })
 
 //delete restaurant
