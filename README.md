@@ -16,13 +16,13 @@ Welcome to the Restaurant Review project! This is a simple application that allo
 The Restaurant Review project aims to provide an easy-to-use platform for users to add and manage restaurant reviews. This project is built with simplicity and efficiency in mind, allowing users to focus on sharing their dining adventures without any hassle.
 
 # Features
-- ** Add a Restaurant:** Users can add information about a restaurant, including its name, cuisine type, location, and other relevant details.
+- **Add a Restaurant:** Users can add information about a restaurant, including its name, cuisine type, location, and other relevant details.
 
 - **Submit a Review:** Users can submit reviews for restaurants, including ratings and comments about their dining experience.
 
 - **Search and Filter:** The application provides a search and filter functionality, enabling users to quickly find restaurants based on name, cuisine, location, or ratings.
 
-- ** User-Friendly Interface: **The user interface is designed to be intuitive and user-friendly, making it easy for both tech-savvy individuals and those less familiar with technology to navigate and utilize the application.
+- **User-Friendly Interface:** The user interface is designed to be intuitive and user-friendly, making it easy for both tech-savvy individuals and those less familiar with technology to navigate and utilize the application.
 
 # Getting Started
 Follow these instructions to get the Restaurant Review project up and running on your local machine.
