@@ -1,5 +1,5 @@
 
-#Restaurant Review
+# Restaurant Review
 Welcome to the Restaurant Review project! This is a simple application that allows users to add restaurants and their reviews. Whether you're a foodie wanting to keep track of your favorite dining spots or a traveler looking to share your culinary experiences, this project has you covered.
 
 ##Table of Contents
