@@ -40,7 +40,7 @@ git clone https://github.com/your-username/restaurant-review.git
 ```
 
 2. Navigate to the Directory: Move into the project directory:
-   
+
 ```
 cd restaurant-review
 ```
